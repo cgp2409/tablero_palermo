@@ -3,5 +3,4 @@ pandas
 streamlit
 numpy
 plotly.express
-gspread
 plotly.graph_objects
