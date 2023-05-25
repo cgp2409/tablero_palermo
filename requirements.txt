@@ -2,6 +2,4 @@ plotly
 pandas
 streamlit
 numpy
-plotly.express
-plotly.graph_objects
 gspread
